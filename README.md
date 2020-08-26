@@ -15,19 +15,19 @@ My name is Herbert Hart and I'm a software developer. I'm from Brazil, living in
 ### Organizations
 
 
-<h4> <img src="https://www.google.com/s2/favicons?sz=32&domain_url=geoinfo.ch"
+<p style="text-align:center;font-size: 3em;">&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?sz=32&domain_url=geoinfo.ch"
   width="16"
   height="16"
-  style="float:left;">
-    GeoINFO
-</h4>
+  style="float:left;vertical-align: middle;">
+  <b>GeoINFO</b>
+</p>
 
-<h4> <img src="https://www.google.com/s2/favicons?sz=32&domain_url=toast-code.com"
+<p style="text-align:center;font-size: 3em">&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?sz=32&domain_url=toast-code.com"
   width="16"
   height="16"
-  style="float:left;">
-    ToastCode
-</h4>
+  style="float:left;vertical-align: middle;">
+  <b>ToastCode</b>
+</p>
 
 ### Languages, Frameworks and Libraries
 
