@@ -8,7 +8,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-@iampavangandhi-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
 -->
 
-My name is Herbert Hart and I'm a software developer. I'm from Brazil, living in and working in Switzerland and currently working at GEOINFO AG. 
+My name is Herbert Hart and I'm a software developer. I'm from Brazil, living and working in Switzerland. Feel free to contact me, if you think you need something from me.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Herbert%20Hart%20-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/herbert-hart)
 
