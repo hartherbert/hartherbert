@@ -45,7 +45,7 @@ My name is Herbert Hart, and I'm a software developer. I'm from Brazil, living a
   <img alt="Brave" src="https://img.icons8.com/color/96/000000/brave-web-browser.png" width="96"/>
 </p>
 <p float="left">
-  <img alt="Slack" src="https://img.icons8.com/color/96/000000/slack.png" width="96"/>
+  <img alt="Slack" src="https://img.icons8.com/color/96/000000/slack-new.png" width="96"/>
   <img alt="Google Cloud Platform" src="https://img.icons8.com/color/96/000000/google-cloud-platform.png" width="96"/>
   <img alt="Firebase" src="https://img.icons8.com/color/96/000000/firebase.png" width="96"/>
   <img alt="Docker" src="https://img.icons8.com/color/96/000000/docker.png" width="96"/>
