@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-Herbert%20Hart%20-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/herbert-hart)
-[![Website Badge](https://img.shields.io/badge/Portfolio%20Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-@iampavangandhi-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-@iampavangandhi-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
-[![Telegram Badge](https://img.shields.io/badge/-@iampavangandhi-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
--->
+My name is Herbert Hart, and I'm a software developer. I'm from Brazil, living and working in Switzerland. Feel free to contact me, if you think you need something from me.
 
-My name is Herbert Hart and I'm a software developer. I'm from Brazil, living and working in Switzerland. Feel free to contact me, if you think you need something from me.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Herbert%20Hart%20-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/herbert-hart)
+[![Linkedin Badge](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://linkedin.com/in/herbert-hart)
 
 ### Organizations
 
@@ -19,7 +11,7 @@ My name is Herbert Hart and I'm a software developer. I'm from Brazil, living an
   width="16"
   height="16"
   style="float:left;vertical-align: middle;">
-  <b>GeoINFO</b>
+  <b>GEOINFO</b>
 </p>
 
 <p style="text-align:center;font-size: 3em">&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?sz=32&domain_url=toast-code.com"
@@ -31,27 +23,36 @@ My name is Herbert Hart and I'm a software developer. I'm from Brazil, living an
 
 ### Languages, Frameworks and Libraries
 
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white&textColor=black)
-![](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
-![](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-![](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white)
-![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=firebase&logoColor=white)
-![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
+<p float="left">
+  <img alt="Javascript" src="https://img.icons8.com/color/96/000000/javascript.png" width="96" />
+  <img alt="Typescript" src="https://img.icons8.com/color/96/000000/typescript.png" width="96" />
+  <img alt="React" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" width="96"/>
+  <img alt="Angular" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" width="96" />
+</p>
+<p float="left">
+  <img alt="Node.js" src="https://img.icons8.com/color/96/000000/nodejs.png" width="96" />
+  <img alt="GraphQL" src="https://img.icons8.com/color/96/000000/graphql.png" width="96"/>
+  <img alt="PostgreSQL" src="https://img.icons8.com/color/96/000000/postgreesql.png" width="96"/>
+  <img alt="Webpack" src="https://img.icons8.com/color/96/000000/webpack.png" width="96"/>
+</p>
 
 ### Tools
 
-![](https://img.shields.io/badge/-MacOS-999999?style=flat&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white)
-![](https://img.shields.io/badge/-Spotify-1ED760?style=flat&logo=spotify&logoColor=white)
-![](https://img.shields.io/badge/-Google%20Chrome-4285F4?style=flat&logo=google-chrome&logoColor=white)
-![](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
-![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+<p float="left">
+  <img alt="macOS" src="https://img.icons8.com/color/100/000000/mac-os--v1.png" width="96"/>
+  <img alt="Webstorm" src="https://img.icons8.com/color/96/000000/webstorm.png" width="96"/>
+  <img alt="Spotify" src="https://img.icons8.com/color/96/000000/spotify.png" width="96"/>
+  <img alt="Brave" src="https://img.icons8.com/color/96/000000/brave-web-browser.png" width="96"/>
+</p>
+<p float="left">
+  <img alt="Slack" src="https://img.icons8.com/color/96/000000/slack.png" width="96"/>
+  <img alt="Google Cloud Platform" src="https://img.icons8.com/color/96/000000/google-cloud-platform.png" width="96"/>
+  <img alt="Firebase" src="https://img.icons8.com/color/96/000000/firebase.png" width="96"/>
+  <img alt="Docker" src="https://img.icons8.com/color/96/000000/docker.png" width="96"/>
+</p>
+
 
 ![Hobbydevs Stats](https://github-readme-stats.vercel.app/api?username=hobbydevs&hide_title=true&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true)
 
+![Waves](./images/wave.svg)
 
